@@ -56,6 +56,7 @@ l2.nextval=l3
 l1.insert_beg("Mon")
 l1.removenode("Wed")
 l1.printlist()'''
+#practice
 class Node:
     def __init__(self,dataval):
         self.dataval=dataval
