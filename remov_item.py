@@ -63,8 +63,7 @@ class Node:
         self.nextval=None
 class Linkedlist:
     def __init__(self):
-        self.headval=None
-
+        self.headval=Non
     def remove(self,key):
         temp=self.headval
         if (temp is not None):
