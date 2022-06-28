@@ -6,3 +6,4 @@ echo success
 echo $PWD
 mkdir 0
 cd ./0
+echo $PWD
