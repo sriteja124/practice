@@ -1,5 +1,5 @@
 #!/bin/bash
 
 echo helloworld
-kubectl apply -f pod.yaml
+kubectl apply -f her.yaml
 echo success
